@@ -1,0 +1,2 @@
+# DOS Scripts
+This folder contains several simple DOS scripts designed to help learn and practice basic DOS commands. Additionally, there is a [DOS Commands guide](DOS_commands_guide.md) file that serves as a reference to understand the usage and functionality of various commands in DOS.
