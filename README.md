@@ -1,0 +1,2 @@
+# Learning Scripting Languages
+This repository contains Bash and DOS/Batch scripts I wrote while I was learning the basics of scripting. These include simple examples and small test scripts that helped me understand how scripting works across different platforms.
