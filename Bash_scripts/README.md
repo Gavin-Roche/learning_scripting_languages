@@ -1,0 +1,2 @@
+# Bash Scripts
+This folder contains several simple Bash scripts designed to help learn and practice basic Bash commands. Additionally, there is a [Bash Commands guide](Bash_commands_guide.md) file that serves as a reference to understand the usage and functionality of various commands in Bash.
